@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Cloud Native Resource Monitoring Python App on K8s!**
 
 ## Things you will Learn 🤯
@@ -222,3 +223,6 @@ Once your pod is up and running, run the port-forward to expose the service
 ```bash
 kubectl port-forward service/<service_name> 5000:5000
 ```
+=======
+# Cloud_native_monitoring
+>>>>>>> 36e8a2b3e72d1661752a33d22655c7d98e20727b
